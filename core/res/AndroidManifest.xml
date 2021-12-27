@@ -722,6 +722,10 @@
     <protected-broadcast android:name="exthmui.intent.action.GAMING_MODE_ON" />
     <protected-broadcast android:name="exthmui.intent.action.GAMING_MODE_OFF" />
 
+    <!-- GameSpace -->
+    <protected-broadcast android:name="io.chaldeaprjkt.gamespace.action.GAME_START" />
+    <protected-broadcast android:name="io.chaldeaprjkt.gamespace.action.GAME_STOP" />
+
     <!-- ====================================================================== -->
     <!--                          RUNTIME PERMISSIONS                           -->
     <!-- ====================================================================== -->
